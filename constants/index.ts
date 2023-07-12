@@ -92,8 +92,8 @@ export const footerLinks = [
   {
     title: 'Socials',
     links: [
-      { title: 'LinkedIn', url: '/' },
-      { title: 'GitHub', url: '/' },
+      { title: 'YouTube', url: '/' },
+      { title: 'Instagram', url: '/' },
       { title: 'Twitter', url: '/' },
       { title: 'Facebook', url: '/' },
     ],
